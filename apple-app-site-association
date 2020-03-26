@@ -4,11 +4,11 @@
     "details": [
     {
       "appID": "SF6R5X4246.com.ikssoftware.Blupassion-DEV",
-      "paths": ["/app1"]
+      "paths": ["/app1/*"]
     },
     {
       "appID": "SF6R5X4246.com.ikssoftware.nfctest",
-      "paths": ["/app2"]
+      "paths": ["/app2/*"]
     }
 
     ]
