@@ -3,11 +3,11 @@
     "apps": [],
     "details": [{
       "appID": "SF6R5X4246.com.ikssoftware.Blupassion-DEV",
-      "paths": ["app1/*"]
+      "paths": ["123/*"]
     },
     {
-      "appID": "SF6R5X4246.com.ikssoftware.nfctest",
-      "paths": ["app2/*"]
+      "appID": "SF6R5X4246.com.ikssoftware.BerlinChemie.ENT",
+      "paths": ["12489/*"]
     }]
   }
 }
